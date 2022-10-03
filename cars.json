@@ -1,0 +1,1247 @@
+[{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d772"
+  },
+  "brand": "Alfa Romeo",
+  "model": "Stelvio Quadrifoglio",
+  "year": 2018,
+  "fuel_type": "Benzina",
+  "engine_capacity": 2900,
+  "engine_power": 505,
+  "traction_type": "Integrala",
+  "gearbox_type": "Automata",
+  "price": 80000,
+  "imageUrl": "./uploads/Alfa Romeo Stelvio Quadrifoglio 7973811249043a58b0da0a394e6279a3.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d774"
+  },
+  "brand": "Audi",
+  "model": "Rs 6",
+  "year": 2009,
+  "fuel_type": "Benzina",
+  "engine_capacity": 5000,
+  "engine_power": 579,
+  "traction_type": "Fata",
+  "gearbox_type": "Automata",
+  "price": 36000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d774.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d77a"
+  },
+  "brand": "Dodge Challenger",
+  "model": "Hellcat Srt",
+  "year": 2016,
+  "fuel_type": "Benzina",
+  "engine_capacity": 6200,
+  "engine_power": 717,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 81000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d77a.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d778"
+  },
+  "brand": "Chevrolet Corvette",
+  "model": "Stingray Coupe",
+  "year": 2020,
+  "fuel_type": "Benzina",
+  "engine_capacity": 6200,
+  "engine_power": 500,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 80000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d778.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d779"
+  },
+  "brand": "Dodge",
+  "model": "Viper Acr",
+  "year": 2016,
+  "fuel_type": "Benzina",
+  "engine_capacity": 8000,
+  "engine_power": 645,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 118000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d779.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d77d"
+  },
+  "brand": "Alfa Romeo",
+  "model": "8c Competizione",
+  "year": 2007,
+  "fuel_type": "Benzina",
+  "engine_capacity": 4700,
+  "engine_power": 450,
+  "traction_type": "Spate",
+  "gearbox_type": "Manuala",
+  "price": 310000,
+  "imageUrl": "./uploads/Alfa Romeo 8c Competizione c5b95e8debdfcb6fd4bf1ed62dd76896.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d77c"
+  },
+  "brand": "Subaru",
+  "model": "Impreza Wrx",
+  "year": 2005,
+  "fuel_type": "Benzina",
+  "engine_capacity": 2000,
+  "engine_power": 227,
+  "traction_type": "Integrala",
+  "gearbox_type": "Manuala",
+  "price": 10000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d77c.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d77e"
+  },
+  "brand": "Bmw",
+  "model": "E60",
+  "year": 2005,
+  "fuel_type": "Benzina",
+  "engine_capacity": 5000,
+  "engine_power": 500,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 25000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d77e.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d780"
+  },
+  "brand": "Bmw",
+  "model": "X5 Le Mans",
+  "year": 2000,
+  "fuel_type": "Benzina",
+  "engine_capacity": 6100,
+  "engine_power": 710,
+  "traction_type": "Integrala",
+  "gearbox_type": "Manuala",
+  "price": 1000000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d780.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d77f"
+  },
+  "brand": "Aston Martin",
+  "model": "Db11",
+  "year": 2017,
+  "fuel_type": "Benzina",
+  "engine_capacity": 5200,
+  "engine_power": 600,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 214000,
+  "imageUrl": "./uploads/Aston Martin Db11 ed4c1339561b944c2e260ddfa522fd8b.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d785"
+  },
+  "brand": "Toyota",
+  "model": "Corolla",
+  "year": 2005,
+  "fuel_type": "Diesel",
+  "engine_capacity": 1400,
+  "engine_power": 96,
+  "traction_type": "Fata",
+  "gearbox_type": "Automata",
+  "price": 5000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d785.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d783"
+  },
+  "brand": "Bmw",
+  "model": "E38",
+  "year": 2001,
+  "fuel_type": "Benzina",
+  "engine_capacity": 3000,
+  "engine_power": 218,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 6000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d783.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d786"
+  },
+  "brand": "Toyota",
+  "model": "Rav 4",
+  "year": 2016,
+  "fuel_type": "Diesel",
+  "engine_capacity": 2000,
+  "engine_power": 176,
+  "traction_type": "Fata",
+  "gearbox_type": "Manuala",
+  "price": 20000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d786.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d78a"
+  },
+  "brand": "Volkswagen",
+  "model": "Transporter 4",
+  "year": 2000,
+  "fuel_type": "Diesel",
+  "engine_capacity": 1900,
+  "engine_power": 84,
+  "traction_type": "Fata",
+  "gearbox_type": "Manuala",
+  "price": 4300,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d78a.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d788"
+  },
+  "brand": "Volkswagen",
+  "model": "Golf 6",
+  "year": 2011,
+  "fuel_type": "Benzina",
+  "engine_capacity": 1400,
+  "engine_power": 172,
+  "traction_type": "Fata",
+  "gearbox_type": "Manuala",
+  "price": 7000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d788.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d789"
+  },
+  "brand": "Audi",
+  "model": "S1",
+  "year": 2015,
+  "fuel_type": "Benzina",
+  "engine_capacity": 2000,
+  "engine_power": 231,
+  "traction_type": "Integrala",
+  "gearbox_type": "Manuala",
+  "price": 23200,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d789.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d78e"
+  },
+  "brand": "Audi",
+  "model": "Rs 4",
+  "year": 2006,
+  "fuel_type": "Benzina",
+  "engine_capacity": 4200,
+  "engine_power": 420,
+  "traction_type": "Integrala",
+  "gearbox_type": "Manuala",
+  "price": 18000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d78e.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d794"
+  },
+  "brand": "Bmw",
+  "model": "M2 Coupe",
+  "year": 2016,
+  "fuel_type": "Benzina",
+  "engine_capacity": 3000,
+  "engine_power": 365,
+  "traction_type": "Spate",
+  "gearbox_type": "Manuala",
+  "price": 50000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d794.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d793"
+  },
+  "brand": "Toyota",
+  "model": "Corolla",
+  "year": 2021,
+  "fuel_type": "Hybrid",
+  "engine_capacity": 2000,
+  "engine_power": 168,
+  "traction_type": "Fata",
+  "gearbox_type": "Automata",
+  "price": 27000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d793.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d798"
+  },
+  "brand": "Mercedes",
+  "model": "W124",
+  "year": 1996,
+  "fuel_type": "Benzina",
+  "engine_capacity": 5000,
+  "engine_power": 320,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 40000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d798.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d795"
+  },
+  "brand": "Ferrari",
+  "model": "Ff",
+  "year": 2011,
+  "fuel_type": "Benzina",
+  "engine_capacity": 6300,
+  "engine_power": 650,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 220000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d795.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d79c"
+  },
+  "brand": "Mercedes",
+  "model": "S Class S500",
+  "year": 1993,
+  "fuel_type": "Benzina",
+  "engine_capacity": 5000,
+  "engine_power": 320,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 25000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d79c.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d79b"
+  },
+  "brand": "Mercedes",
+  "model": "Sls Amg",
+  "year": 2011,
+  "fuel_type": "Benzina",
+  "engine_capacity": 6200,
+  "engine_power": 571,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 175000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d79b.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d79e"
+  },
+  "brand": "Mercedes",
+  "model": "E Class",
+  "year": 2015,
+  "fuel_type": "Benzina",
+  "engine_capacity": 2000,
+  "engine_power": 211,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 38000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d79e.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d79d"
+  },
+  "brand": "Bmw",
+  "model": "M50d",
+  "year": 2022,
+  "fuel_type": "Diesel",
+  "engine_capacity": 3000,
+  "engine_power": 400,
+  "traction_type": "Integrala",
+  "gearbox_type": "Automata",
+  "price": 130000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d79d.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d79f"
+  },
+  "brand": "Bmw",
+  "model": "X5",
+  "year": 2006,
+  "fuel_type": "Diesel",
+  "engine_capacity": 3000,
+  "engine_power": 225,
+  "traction_type": "Integrala",
+  "gearbox_type": "Automata",
+  "price": 5000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d79f.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7a0"
+  },
+  "brand": "Mercedes",
+  "model": "X Class",
+  "year": 2018,
+  "fuel_type": "Diesel",
+  "engine_capacity": 2300,
+  "engine_power": 190,
+  "traction_type": "Integrala",
+  "gearbox_type": "Automata",
+  "price": 60000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7a0.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7a7"
+  },
+  "brand": "Volkswagen",
+  "model": "Beetle",
+  "year": 1950,
+  "fuel_type": "Benzina",
+  "engine_capacity": 1600,
+  "engine_power": 42,
+  "traction_type": "Spate",
+  "gearbox_type": "Manuala",
+  "price": 15000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7a7.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7a9"
+  },
+  "brand": "Toyota",
+  "model": "Supra Mk4",
+  "year": 1996,
+  "fuel_type": "Benzina",
+  "engine_capacity": 3000,
+  "engine_power": 280,
+  "traction_type": "Spate",
+  "gearbox_type": "Manuala",
+  "price": 40000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7a9.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7a1"
+  },
+  "brand": "Mercedes",
+  "model": "Cls",
+  "year": 2018,
+  "fuel_type": "Diesel",
+  "engine_capacity": 2000,
+  "engine_power": 240,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 84000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7a1.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7af"
+  },
+  "brand": "Volkswagen",
+  "model": "Golf 6 R",
+  "year": 2009,
+  "fuel_type": "Benzina",
+  "engine_capacity": 2000,
+  "engine_power": 266,
+  "traction_type": "Integrala",
+  "gearbox_type": "Automata",
+  "price": 17000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7af.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7a5"
+  },
+  "brand": "Ford",
+  "model": "Transit",
+  "year": 1990,
+  "fuel_type": "Diesel",
+  "engine_capacity": 2500,
+  "engine_power": 70,
+  "traction_type": "Spate",
+  "gearbox_type": "Manuala",
+  "price": 7000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7a5.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7b6"
+  },
+  "brand": "Bmw",
+  "model": "M5 F10",
+  "year": 2014,
+  "fuel_type": "Benzina",
+  "engine_capacity": 4400,
+  "engine_power": 553,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 45000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7b6.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7a6"
+  },
+  "brand": "Volkswagen",
+  "model": "Transporter 1",
+  "year": 1959,
+  "fuel_type": "Benzina",
+  "engine_capacity": 1600,
+  "engine_power": 44,
+  "traction_type": "Spate",
+  "gearbox_type": "Manuala",
+  "price": 50000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7a6.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7ac"
+  },
+  "brand": "Volkswagen",
+  "model": "Polo",
+  "year": 2010,
+  "fuel_type": "Benzina",
+  "engine_capacity": 1400,
+  "engine_power": 180,
+  "traction_type": "Fata",
+  "gearbox_type": "Automata",
+  "price": 10000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7ac.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7bf"
+  },
+  "brand": "Mercedes",
+  "model": "Cla",
+  "year": 2019,
+  "fuel_type": "Benzina",
+  "engine_capacity": 1300,
+  "engine_power": 163,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 40000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7bf.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7c4"
+  },
+  "brand": "Tesla",
+  "model": "S",
+  "year": 2015,
+  "fuel_type": "Electrica",
+  "engine_capacity": 0,
+  "engine_power": 539,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 80000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7c4.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7ae"
+  },
+  "brand": "Volkswagen",
+  "model": "Golf 6 Gti",
+  "year": 2010,
+  "fuel_type": "Benzina",
+  "engine_capacity": 2000,
+  "engine_power": 232,
+  "traction_type": "Fata",
+  "gearbox_type": "Automata",
+  "price": 14000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7ae.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7b2"
+  },
+  "brand": "Bmw",
+  "model": "M5 F90",
+  "year": 2017,
+  "fuel_type": "Benzina",
+  "engine_capacity": 4400,
+  "engine_power": 592,
+  "traction_type": "Integrala",
+  "gearbox_type": "Automata",
+  "price": 86000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7b2.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7c6"
+  },
+  "brand": "Lada",
+  "model": "2103",
+  "year": 1983,
+  "fuel_type": "Benzina",
+  "engine_capacity": 1500,
+  "engine_power": 73,
+  "traction_type": "Spate",
+  "gearbox_type": "Manuala",
+  "price": 1100,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7c6.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7be"
+  },
+  "brand": "Bmw",
+  "model": "M5 E34",
+  "year": 1996,
+  "fuel_type": "Benzina",
+  "engine_capacity": 3800,
+  "engine_power": 335,
+  "traction_type": "Spate",
+  "gearbox_type": "Manuala",
+  "price": 30000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7be.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7c0"
+  },
+  "brand": "Skoda",
+  "model": "Superb",
+  "year": 2019,
+  "fuel_type": "Diesel",
+  "engine_capacity": 2000,
+  "engine_power": 150,
+  "traction_type": "Fata",
+  "gearbox_type": "Automata",
+  "price": 28000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7c0.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7c1"
+  },
+  "brand": "Mercedes",
+  "model": "Gla",
+  "year": 2020,
+  "fuel_type": "Diesel",
+  "engine_capacity": 2000,
+  "engine_power": 190,
+  "traction_type": "Integrala",
+  "gearbox_type": "Automata",
+  "price": 50000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7c1.jpg"
+},{
+  "_id": {
+    "$oid": "62cf0e848af556e2527a57b6"
+  },
+  "brand": "Hyundai",
+  "model": "Solaris",
+  "year": 2014,
+  "fuel_type": "Benzina",
+  "engine_capacity": 1600,
+  "engine_power": 123,
+  "traction_type": "Fata",
+  "gearbox_type": "Automata",
+  "price": 9868,
+  "imageUrl": "./uploads/62cf0e848af556e2527a57b6.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d773"
+  },
+  "brand": "Alfa Romeo",
+  "model": "Giulia Quadrifoglio",
+  "year": 2017,
+  "fuel_type": "Benzina",
+  "engine_capacity": 2900,
+  "engine_power": 505,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 87000,
+  "imageUrl": "./uploads/Alfa Romeo Giulia Quadrifoglio 489625adc632a54f3b2f6357c315484f.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d776"
+  },
+  "brand": "Nissan",
+  "model": "180sx",
+  "year": 1997,
+  "fuel_type": "Benzina",
+  "engine_capacity": 2500,
+  "engine_power": 350,
+  "traction_type": "Spate",
+  "gearbox_type": "Manuala",
+  "price": 8000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d776.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d782"
+  },
+  "brand": "Aston Martin",
+  "model": "Vantage Gt12",
+  "year": 2016,
+  "fuel_type": "Benzina",
+  "engine_capacity": 5900,
+  "engine_power": 600,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 385000,
+  "imageUrl": "./uploads/Aston Martin Vantage Gt12 2a8d7d1015c0b576d5676516e157d1b6.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d787"
+  },
+  "brand": "Audi",
+  "model": "R8 V10 Plus",
+  "year": 2016,
+  "fuel_type": "Benzina",
+  "engine_capacity": 5200,
+  "engine_power": 610,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 255000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d787.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d78b"
+  },
+  "brand": "Audi",
+  "model": "Rs 6 Avant",
+  "year": 2015,
+  "fuel_type": "Benzina",
+  "engine_capacity": 4000,
+  "engine_power": 560,
+  "traction_type": "Integrala",
+  "gearbox_type": "Automata",
+  "price": 117700,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d78b.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d78c"
+  },
+  "brand": "Audi",
+  "model": "Tts Coupe",
+  "year": 2015,
+  "fuel_type": "Benzina",
+  "engine_capacity": 2000,
+  "engine_power": 265,
+  "traction_type": "Integrala",
+  "gearbox_type": "Automata",
+  "price": 49000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d78c.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d792"
+  },
+  "brand": "Audi",
+  "model": "Rs Q8",
+  "year": 2019,
+  "fuel_type": "Benzina",
+  "engine_capacity": 4000,
+  "engine_power": 600,
+  "traction_type": "Integrala",
+  "gearbox_type": "Automata",
+  "price": 135000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d775.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d796"
+  },
+  "brand": "Bmw",
+  "model": "M4 Gts",
+  "year": 2016,
+  "fuel_type": "Benzina",
+  "engine_capacity": 3000,
+  "engine_power": 493,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 134000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d796.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d797"
+  },
+  "brand": "Bmw",
+  "model": "M8",
+  "year": 2022,
+  "fuel_type": "Benzina",
+  "engine_capacity": 4400,
+  "engine_power": 617,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 180000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d797.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d799"
+  },
+  "brand": "Mercedes",
+  "model": "W124",
+  "year": 1996,
+  "fuel_type": "Benzina",
+  "engine_capacity": 2300,
+  "engine_power": 132,
+  "traction_type": "Spate",
+  "gearbox_type": "Manuala",
+  "price": 7000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d799.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d79a"
+  },
+  "brand": "Audi",
+  "model": "Q8",
+  "year": 2019,
+  "fuel_type": "Diesel",
+  "engine_capacity": 3000,
+  "engine_power": 249,
+  "traction_type": "Integrala",
+  "gearbox_type": "Automata",
+  "price": 112000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d79a.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7ab"
+  },
+  "brand": "Mazda",
+  "model": "Rx 5",
+  "year": 1994,
+  "fuel_type": "Benzina",
+  "engine_capacity": 1800,
+  "engine_power": 130,
+  "traction_type": "Spate",
+  "gearbox_type": "Manuala",
+  "price": 10000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7ab.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7ad"
+  },
+  "brand": "Lexus",
+  "model": "Is 200",
+  "year": 2002,
+  "fuel_type": "Benzina",
+  "engine_capacity": 2000,
+  "engine_power": 155,
+  "traction_type": "Spate",
+  "gearbox_type": "Manuala",
+  "price": 4200,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7ad.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7b1"
+  },
+  "brand": "Nissan",
+  "model": "Silvia S15",
+  "year": 1999,
+  "fuel_type": "Benzina",
+  "engine_capacity": 2000,
+  "engine_power": 180,
+  "traction_type": "Spate",
+  "gearbox_type": "Manuala",
+  "price": 12000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7b1.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7b3"
+  },
+  "brand": "Mercedes",
+  "model": "E63 Amg",
+  "year": 2020,
+  "fuel_type": "Benzina",
+  "engine_capacity": 4000,
+  "engine_power": 612,
+  "traction_type": "Integrala",
+  "gearbox_type": "Automata",
+  "price": 107500,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7b3.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7b4"
+  },
+  "brand": "Mercedes",
+  "model": "C63 Amg",
+  "year": 2012,
+  "fuel_type": "Benzina",
+  "engine_capacity": 6200,
+  "engine_power": 451,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 58900,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7b4.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7b5"
+  },
+  "brand": "Volvo",
+  "model": "Xc90",
+  "year": 2011,
+  "fuel_type": "Benzina",
+  "engine_capacity": 3200,
+  "engine_power": 240,
+  "traction_type": "Integrala",
+  "gearbox_type": "Automata",
+  "price": 17000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7b5.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7b8"
+  },
+  "brand": "Range Rover",
+  "model": "Sport",
+  "year": 2010,
+  "fuel_type": "Benzina",
+  "engine_capacity": 5000,
+  "engine_power": 503,
+  "traction_type": "Integrala",
+  "gearbox_type": "Automata",
+  "price": 80000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7b8.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7b9"
+  },
+  "brand": "Toyota",
+  "model": "Land Cruiser 200",
+  "year": 2017,
+  "fuel_type": "Diesel",
+  "engine_capacity": 4500,
+  "engine_power": 282,
+  "traction_type": "Integrala",
+  "gearbox_type": "Automata",
+  "price": 64000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7b9.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7ba"
+  },
+  "brand": "Lexus",
+  "model": "Lx 570",
+  "year": 2017,
+  "fuel_type": "Benzina",
+  "engine_capacity": 5700,
+  "engine_power": 383,
+  "traction_type": "Integrala",
+  "gearbox_type": "Automata",
+  "price": 89000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7ba.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7bb"
+  },
+  "brand": "Dacia",
+  "model": "Logan",
+  "year": 2005,
+  "fuel_type": "Benzina",
+  "engine_capacity": 1400,
+  "engine_power": 75,
+  "traction_type": "Fata",
+  "gearbox_type": "Manuala",
+  "price": 1300,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7bb.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7bd"
+  },
+  "brand": "Lada",
+  "model": "Priora",
+  "year": 2013,
+  "fuel_type": "Benzina",
+  "engine_capacity": 1600,
+  "engine_power": 106,
+  "traction_type": "Fata",
+  "gearbox_type": "Manuala",
+  "price": 4200,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7bd.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7c3"
+  },
+  "brand": "Bmw",
+  "model": "E46",
+  "year": 2001,
+  "fuel_type": "Benzina",
+  "engine_capacity": 3000,
+  "engine_power": 231,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 6000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7c3.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7c7"
+  },
+  "brand": "Tesla",
+  "model": "Model X",
+  "year": 2016,
+  "fuel_type": "Electrica",
+  "engine_capacity": 0,
+  "engine_power": 772,
+  "traction_type": "Integrala",
+  "gearbox_type": "Automata",
+  "price": 95000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7c7.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d775"
+  },
+  "brand": "Bmw",
+  "model": "I8",
+  "year": 2019,
+  "fuel_type": "Hybrid",
+  "engine_capacity": 1500,
+  "engine_power": 374,
+  "traction_type": "Integrala",
+  "gearbox_type": "Automata",
+  "price": 150000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d775.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d777"
+  },
+  "brand": "Toyota",
+  "model": "Mark 2",
+  "year": 1992,
+  "fuel_type": "Benzina",
+  "engine_capacity": 3000,
+  "engine_power": 402,
+  "traction_type": "Spate",
+  "gearbox_type": "Manuala",
+  "price": 17000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d777.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d77b"
+  },
+  "brand": "Alfa Romeo",
+  "model": "4c",
+  "year": 2014,
+  "fuel_type": "Benzina",
+  "engine_capacity": 1700,
+  "engine_power": 240,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 55000,
+  "imageUrl": "./uploads/Alfa Romeo 4c fcab297f7205f1fd6fb1f61a4bd3e840.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d781"
+  },
+  "brand": "Aston Martin",
+  "model": "Vulcan",
+  "year": 2016,
+  "fuel_type": "Benzina",
+  "engine_capacity": 7000,
+  "engine_power": 820,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 2300000,
+  "imageUrl": "./uploads/Aston Martin Vulcan 6f75bfba04e34abd5e95d252ceaf3f81.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d784"
+  },
+  "brand": "Aston Martin",
+  "model": "Db10",
+  "year": 2015,
+  "fuel_type": "Benzina",
+  "engine_capacity": 4700,
+  "engine_power": 430,
+  "traction_type": "Spate",
+  "gearbox_type": "Manuala",
+  "price": 3430000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d784.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d78d"
+  },
+  "brand": "Bmw",
+  "model": "E46 Gtr",
+  "year": 2005,
+  "fuel_type": "Benzina",
+  "engine_capacity": 4000,
+  "engine_power": 493,
+  "traction_type": "Spate",
+  "gearbox_type": "Manuala",
+  "price": 229000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d78d.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d78f"
+  },
+  "brand": "Bmw",
+  "model": "E31",
+  "year": 1999,
+  "fuel_type": "Benzina",
+  "engine_capacity": 5600,
+  "engine_power": 375,
+  "traction_type": "Spate",
+  "gearbox_type": "Manuala",
+  "price": 35000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d78f.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d791"
+  },
+  "brand": "Audi",
+  "model": "Rs 5",
+  "year": 2019,
+  "fuel_type": "Benzina",
+  "engine_capacity": 2900,
+  "engine_power": 450,
+  "traction_type": "Integrala",
+  "gearbox_type": "Automata",
+  "price": 61000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d791.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7a2"
+  },
+  "brand": "Ford",
+  "model": "Sierra",
+  "year": 1989,
+  "fuel_type": "Benzina",
+  "engine_capacity": 2000,
+  "engine_power": 117,
+  "traction_type": "Spate",
+  "gearbox_type": "Manuala",
+  "price": 1000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7a2.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7a3"
+  },
+  "brand": "Ford",
+  "model": "Puma",
+  "year": 2021,
+  "fuel_type": "Diesel",
+  "engine_capacity": 1000,
+  "engine_power": 153,
+  "traction_type": "Fata",
+  "gearbox_type": "Automata",
+  "price": 30000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7a3.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7a4"
+  },
+  "brand": "Aston Martin",
+  "model": "Cygnet",
+  "year": 2021,
+  "fuel_type": "Diesel",
+  "engine_capacity": 4700,
+  "engine_power": 430,
+  "traction_type": "Integrala",
+  "gearbox_type": "Automata",
+  "price": 36000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7a4.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7a8"
+  },
+  "brand": "Toyota",
+  "model": "Supra Mk3",
+  "year": 1990,
+  "fuel_type": "Benzina",
+  "engine_capacity": 2500,
+  "engine_power": 280,
+  "traction_type": "Spate",
+  "gearbox_type": "Manuala",
+  "price": 10000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7a8.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7aa"
+  },
+  "brand": "Mazda",
+  "model": "Rx 7",
+  "year": 1998,
+  "fuel_type": "Benzina",
+  "engine_capacity": 1300,
+  "engine_power": 115,
+  "traction_type": "Spate",
+  "gearbox_type": "Manuala",
+  "price": 20000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7aa.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7b0"
+  },
+  "brand": "Renault",
+  "model": "Scenic 3",
+  "year": 2013,
+  "fuel_type": "Diesel",
+  "engine_capacity": 1500,
+  "engine_power": 110,
+  "traction_type": "Fata",
+  "gearbox_type": "Manuala",
+  "price": 6500,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7b0.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7b7"
+  },
+  "brand": "Porsche",
+  "model": "Panamera Turbo",
+  "year": 2012,
+  "fuel_type": "Benzina",
+  "engine_capacity": 4800,
+  "engine_power": 400,
+  "traction_type": "Integrala",
+  "gearbox_type": "Automata",
+  "price": 90000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7b7.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7bc"
+  },
+  "brand": "Skoda",
+  "model": "Octavia Rs",
+  "year": 2017,
+  "fuel_type": "Benzina",
+  "engine_capacity": 2000,
+  "engine_power": 220,
+  "traction_type": "Fata",
+  "gearbox_type": "Manuala",
+  "price": 25000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7bc.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7c2"
+  },
+  "brand": "Mercedes",
+  "model": "Amg Cls 63",
+  "year": 2014,
+  "fuel_type": "Benzina",
+  "engine_capacity": 5500,
+  "engine_power": 557,
+  "traction_type": "Integrala",
+  "gearbox_type": "Automata",
+  "price": 90000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7c2.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7c5"
+  },
+  "brand": "Mercedes",
+  "model": "W123",
+  "year": 1985,
+  "fuel_type": "Diesel",
+  "engine_capacity": 3000,
+  "engine_power": 125,
+  "traction_type": "Spate",
+  "gearbox_type": "Automata",
+  "price": 10000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7c5.jpg"
+},{
+  "_id": {
+    "$oid": "62cde089bd2f9fb1e2a7d7c8"
+  },
+  "brand": "Mercedes",
+  "model": "A Class",
+  "year": 2019,
+  "fuel_type": "Benzina",
+  "engine_capacity": 2000,
+  "engine_power": 188,
+  "traction_type": "Fata",
+  "gearbox_type": "Automata",
+  "price": 32000,
+  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d7c8.jpg"
+},{
+  "_id": {
+    "$oid": "62da60a5ae3154f131be7331"
+  },
+  "brand": "Audi",
+  "model": "Rs 6",
+  "year": 2009,
+  "fuel_type": "Benzina",
+  "engine_capacity": 4200,
+  "engine_power": 580,
+  "traction_type": "Fata",
+  "gearbox_type": "Automata",
+  "price": 32000,
+  "imageUrl": "./uploads/62da60a5ae3154f131be7331.jpg"
+},{
+  "_id": {
+    "$oid": "62debb6d896bae0b201d4cee"
+  },
+  "brand": "Audi",
+  "model": "TT RS Roadster",
+  "year": 2019,
+  "fuel_type": "Benzina",
+  "engine_capacity": 2480,
+  "engine_power": 400,
+  "traction_type": "Integrala",
+  "gearbox_type": "Manuala",
+  "price": 67895,
+  "imageUrl": "./uploads/Audi-TT-RS-Roadster-8S-facelift-2019 3e0adb99802ea67383d6d3d84dc677dd.jpg"
+}]
