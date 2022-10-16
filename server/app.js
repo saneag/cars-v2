@@ -48,12 +48,12 @@ app.post('/cars', checkAuth, createCarValidation, handleValidationErrors, CarsCo
 app.delete('/cars/:id', checkAuth, CarsController.deleteCar)
 app.patch('/cars/:id', checkAuth, handleValidationErrors, CarsController.updateCar)
 
-const PORT = config.port || 5000
+const PORT = process.env.PORT || 5000
 
 app.listen(PORT, (err) => {
     if (err) {
         return console.log(err)
     }
 
-    console.log('Server is listening on port 5000')
+    console.log('Server is listening on port ' + PORT)
 })

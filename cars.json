@@ -711,7 +711,7 @@
   "traction_type": "Integrala",
   "gearbox_type": "Automata",
   "price": 135000,
-  "imageUrl": "./uploads/62cde089bd2f9fb1e2a7d775.jpg"
+  "imageUrl": "./uploads/ 2c0ad5c0293f914387781e59622f13b8.jpg"
 },{
   "_id": {
     "$oid": "62cde089bd2f9fb1e2a7d796"
@@ -1244,4 +1244,18 @@
   "gearbox_type": "Manuala",
   "price": 67895,
   "imageUrl": "./uploads/Audi-TT-RS-Roadster-8S-facelift-2019 3e0adb99802ea67383d6d3d84dc677dd.jpg"
+},{
+  "_id": {
+    "$oid": "634cfe5742e779b53a99cf7c"
+  },
+  "brand": "Mazda",
+  "model": "RX-7",
+  "year": 2002,
+  "fuel_type": "Benzina",
+  "engine_capacity": 1300,
+  "engine_power": 280,
+  "traction_type": "Spate",
+  "gearbox_type": "Mecanica",
+  "price": 20000,
+  "imageUrl": "./uploads/Tuned_Mazda_RX-7_Type_RB_(GF-FD3S)_front 2f36cbe5abd9f65d7306ea550187b65a.jpg"
 }]
