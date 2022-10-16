@@ -1,7 +1,6 @@
 
-import { assert, expect } from "chai";
+import { assert } from "chai";
 import request from 'request'
-import UserModel from '../models/User.js'
 
 describe('Get /cars', () => {
     it('should return all cars', (done) => {
