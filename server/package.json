@@ -5,7 +5,8 @@
   "main": "app.js",
   "type": "module",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "test": "mocha test --reporter mocha-junit-reporter ./tests"
   },
   "keywords": [
     "cars",
@@ -28,6 +29,7 @@
     "request": "^2.88.2"
   },
   "devDependencies": {
-    "mocha": "^10.1.0"
+    "mocha": "^10.1.0",
+    "mocha-junit-reporter": "^2.1.1"
   }
 }

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1.077" tests="3" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-10-31T13:34:44" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Get /cars" timestamp="2022-10-31T13:34:44" tests="1" file="C:\Users\agarstea\Documents\cars-v2\server\tests\appTest.js" time="0.476" failures="0">
+    <testcase name="Get /cars should return all cars" time="0.472" classname="should return all cars">
+    </testcase>
+  </testsuite>
+  <testsuite name="Get /cars/:id" timestamp="2022-10-31T13:34:44" tests="1" file="C:\Users\agarstea\Documents\cars-v2\server\tests\appTest.js" time="0.161" failures="0">
+    <testcase name="Get /cars/:id should return one car by id" time="0.159" classname="should return one car by id">
+    </testcase>
+  </testsuite>
+  <testsuite name="Login user" timestamp="2022-10-31T13:34:45" tests="1" file="C:\Users\agarstea\Documents\cars-v2\server\tests\appTest.js" time="0.438" failures="0">
+    <testcase name="Login user should login user" time="0.437" classname="should login user">
+    </testcase>
+  </testsuite>
+</testsuites>
