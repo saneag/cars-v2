@@ -2,10 +2,11 @@ version: "3.8"
 
 services:
   mongodb:
-    image: "mongo"
+    image: "saneag/mongo"
     volumes:
       - "data:/data/db"
   backend:
+    image: "saneag/backend"
     build: ./server
     ports:
       - "5000:5000"
@@ -19,6 +20,7 @@ services:
       - mongodb
 
   frontend:
+    image: "saneag/frontend"
     build: ./client
     ports:
       - "3000:3000"
