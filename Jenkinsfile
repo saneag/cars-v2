@@ -19,12 +19,20 @@ pipeline {
                 deleteDir()
             }
         }
-        stage('Build') {
+        stage('Install') {
             steps {
-                bat 'npm install'
-                bat 'npm install --prefix ./client'
-                bat 'npm install --prefix ./server'
+                bat 'npm install && npm install --prefix ./client && npm install --prefix ./server'
             }
+        }
+        stage('VM login') {
+        	steps {
+        		bat 'ssh -p 2222 alex@localhost &&     '
+        	}
+        }
+        stage('Docker compose') {
+		steps {
+			sh 'docker compose up'
+        	}
         }
         stage('Testing backend') {
             steps {
