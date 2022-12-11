@@ -1,30 +1,24 @@
-version: "3.8"
+version: '3.8'
 
 services:
   mongodb:
-    image: "mongo"
-    volumes:
-      - "data:/data/db"
+    image: 'saneag/mongo:latest'
   backend:
-    build: ./server
+    image: 'saneag/backend:latest'
     ports:
-      - "5000:5000"
-    volumes:
-      - logs:/app/logs
-      - ./server:/app
-      - ./server:/uploads
-      - /app/node_modules
+      - '5000:5000'
 
     depends_on:
       - mongodb
 
   frontend:
-    build: ./client
+    image: 'saneag/frontend:latest'
     ports:
-      - "3000:3000"
-    volumes:
-      - ./client/src:/app/src
+      - '3000:3000'
     stdin_open: true
+    restart: always
+    build:
+      context: .
     tty: true
     depends_on:
       - backend
